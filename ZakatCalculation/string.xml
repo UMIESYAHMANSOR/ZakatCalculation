@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ZAKAT GOLD CALCULATION </string>
+    <string name="get_weight">Weight of Gold in Gram (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+
+    <string name="zc_information">ABOUT US</string>
+    <string name="zc_student_name">Student Name:</string>
+    <string name="zc_student_id">Student ID:</string>
+    <string name="zc_group">Group:</string>
+    <string name="zc_program_code">Program Code:</string>
+    <string name="zc_github">Github Source Code:</string>
+
+    <string name="information">This application offers a Zakat Calculation that utilises the most recent gold prices in real-time to determine your zakat. The annual zakat payment can be calculated by the user using this programme..</string>
+    <string name="student_name">UMI ESYAH BINTI MANSOR</string>
+    <string name="student_id">2020618362</string>
+    <string name="group">RCS2405A</string>
+    <string name="program_code">ICT602</string>
+    <string name="github">
+        <a href="https://github.com/UMIESYAHMANSOR/ZakatCalculation">https://github.com/UMIESYAHMANSOR/ZakatCalculation</a></string>
+    <string name="copyright">Copyright &#169; 2022 SF</string>
+
+</resources>
